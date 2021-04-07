@@ -1,0 +1,25 @@
+
+            h1 {
+                color: brown;
+            }
+
+            * {
+                border: solid;
+            }
+       
+            .Website{
+                background-color:lavender;
+                border:solid;
+                color:hotpink;
+            }
+
+            .Webpage{
+                background-color: lavender;
+                border:solid;
+                color:hotpink;
+            }
+
+            .socialmed{
+                display:flex;
+                justify-content: flex-end  
+            }
